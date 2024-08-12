@@ -1,6 +1,6 @@
 # Movie Search React Web App
 
-Welcome to the Movie Search React Web App! This project allows users to search for movies using the OMDB API. It's built with React and styled using CSS to provide a user-friendly interface for discovering information about movies.
+Welcome to the Movie Search React Web App! This project allows users to search for movies using the OMDB API. It's built with React and styled using CSS to provide a user-friendly interface for discovering information about movies .
 
 ## Features
 
